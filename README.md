@@ -1,6 +1,6 @@
-# focus
+# Focus
 
-A new Flutter project.
+[APK of the app](https://drive.google.com/drive/folders/1HVAeY4HCa5k1laNXL_VGUDHcLmr71Dz9?usp=sharing)
 
 ## Getting Started
 
