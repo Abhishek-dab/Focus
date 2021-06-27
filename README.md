@@ -1,8 +1,6 @@
 # Focus
 
-[APK of the app](https://drive.google.com/drive/folders/1HVAeY4HCa5k1laNXL_VGUDHcLmr71Dz9?usp=sharing)
-
-[Presentation Slides](https://docs.google.com/presentation/d/1z6ixBvhQA58TYnC4RW2qBThF6jay871MdAZr-9tjxaE/edit?usp=sharing)
+[APK of the app and slides](https://drive.google.com/drive/folders/1HVAeY4HCa5k1laNXL_VGUDHcLmr71Dz9?usp=sharing)
 
 [YT Video](https://youtu.be/7Eg4SMjMeWc)
 
